@@ -3,4 +3,4 @@ Git is a free software distribited under the GPL.
 Git has been modified.
 
 111ssss
-111
+Creating a new branch is quick.
